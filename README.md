@@ -3,12 +3,12 @@ To encrypt and decrypt data using asymmetric encryption. The algorithm used is t
 This encryption method is only software based, no hardware such as the ATECC608 is involved.
 
 ### Encryption
-Command line encryption which is found in the path: <ins> ~/go/src/github.com/SandsB2B/crypt_ecdsa/cmd/encrypt/main.go </ins>
+Command line encryption which is found in the path: <ins> ~/go/src/github.com/BillyLouis/crypt_ecdsa/cmd/encrypt/main.go </ins>
 
 
 
 ### Decryption
-Command line decryption which is found in the path: <ins> ~/go/src/github.com/SandsB2B/crypt_ecdsa/cmd/decrypt/main.go </ins>
+Command line decryption which is found in the path: <ins> ~/go/src/github.com/BillyLouis/crypt_ecdsa/cmd/decrypt/main.go </ins>
 
 
 ## Authors
