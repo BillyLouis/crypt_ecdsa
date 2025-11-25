@@ -12,7 +12,7 @@ Command line decryption which is found in the path: <ins> ~/go/src/github.com/Bi
 ### Todo's
 ```shell
 - [ ] Include TCP/IP to allow encrypted communication in a secure channel from 2 Physical machines and  
-      not just one one machine (2 terminals) as it is set to run now.
+      not just one machine (2 terminals) as it is set to run now.
 - [ ] Use the application as a handshake for a larger project.
 
 ```
