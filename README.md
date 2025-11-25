@@ -6,9 +6,16 @@ This encryption method is only software based, no hardware such as the ATECC608 
 Command line encryption which is found in the path: <ins> ~/go/src/github.com/BillyLouis/crypt_ecdsa/cmd/encrypt/main.go </ins>
 
 
-
 ### Decryption
 Command line decryption which is found in the path: <ins> ~/go/src/github.com/BillyLouis/crypt_ecdsa/cmd/decrypt/main.go </ins>
+
+### Todo's
+```shell
+- [ ] Include TCP/IP to allow encrypted communication in a secure channel from 2 Physical machines and  
+      not just one one machine (2 terminals) as it is set to run now.
+- [ ] Use the application as a handshake for a larger project.
+
+```
 
 
 ## Authors
